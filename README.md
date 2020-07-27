@@ -4,7 +4,7 @@
 
 This is a very simple script to color again. It doesn't work with gradients, textures, etc.
 
-![lowquality](dumbgif.gif "aaa")
+![lowquality](dumbgif.mp4 "aaa")
 
 To use, just copy all the code in your file and then do something like this:
 
