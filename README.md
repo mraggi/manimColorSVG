@@ -4,6 +4,8 @@
 
 This is a very simple script to color again. It doesn't work with gradients, textures, etc.
 
+![lowquality](dumbgif.gif "aaa")
+
 To use, just copy all the code in your file and then do something like this:
 
 ```python
